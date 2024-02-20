@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <AppBar position="sticky">
       <Toolbar>
-        <Avatar src="/public/logo.webp" alt="Company Logo" />
+        <Avatar src="/logo.webp" alt="Company Logo" />
 
         <Box marginLeft={2}>
           <Typography variant="h6">United Dairy and Grocers Distribution</Typography>
